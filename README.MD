@@ -1,1 +1,1 @@
-This is kust a test
+This is just a test
